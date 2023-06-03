@@ -1,0 +1,116 @@
+.container {
+  width: 100%; }
+
+.nav-home {
+  width: 20%;
+  float: left; }
+
+.nav-links {
+  text-align: right; }
+
+.nav-back-blue {
+  background: #3fb0fb;
+  background: radial-gradient(circle, #3fb0fb 28%, #473ffb 100%); }
+
+.nav-white {
+  color: white; }
+
+.img-hero-banner {
+  width: 100%; }
+
+.seccion-titulo {
+  width: 100%;
+  text-align: center;
+  font-size: 30px; }
+
+.redes-sociales {
+  width: 40%;
+  float: left; }
+
+.contacto {
+  text-align: right; }
+
+.contenido {
+  width: 100%;
+  font-size: 18px;
+  text-align: center;
+  padding: 25px; }
+
+.cajaalimentacion {
+  padding-top: 10px;
+  transition: transform 2s; }
+
+.cajaalimentacion:hover {
+  transform: scale(1.1, 1.1); }
+
+.cajajuguetes {
+  padding-top: 10px;
+  transition: transform 2s; }
+
+.cajajuguetes:hover {
+  transform: scale(1.1, 1.1); }
+
+.cajahigiene {
+  padding-top: 10px;
+  transition: transform 2s; }
+
+.cajahigiene:hover {
+  transform: scale(1.1, 1.1); }
+
+.pie-pagina {
+  margin-top: 50px;
+  margin-bottom: 50px; }
+
+.text-j {
+  text-align: justify; }
+
+h1 {
+  font-size: 30px; }
+
+.descripcion {
+  text-align: center;
+  font-size: 16px; }
+
+main h3 {
+  width: 100%;
+  font-size: 25px;
+  color: black;
+  text-align: center;
+  padding: 15px; }
+
+main .higiene {
+  padding: 15px; }
+
+main .cepillo {
+  width: 100%; }
+
+main .img-unas {
+  width: 100%; }
+
+main .img-arena {
+  width: 100%; }
+
+main .img-bano {
+  width: 100%; }
+
+main .row {
+  padding: 15px; }
+
+.juguetes {
+  padding: 30px; }
+
+.telefono {
+  width: 100%; }
+
+.contacto {
+  padding-top: 50px; }
+
+.contacto button {
+  color: white;
+  font-weight: bold;
+  background-color: #008ad3;
+  border: transparent; }
+
+.contacto button i {
+  color: white;
+  font-size: 1.3rem; }
