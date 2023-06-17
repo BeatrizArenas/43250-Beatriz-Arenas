@@ -1,14 +1,11 @@
 import React from 'react'
 
-const Title = () => {
+export default function Title({stringTitle}) {
   return (
     <>
     <div className="seccion-titulo">
-            <h1>Gato Tips</h1>
-
+            <h1>{ stringTitle }</h1>
         </div>
     </>
   )
-}
-
-export default Title
+};
