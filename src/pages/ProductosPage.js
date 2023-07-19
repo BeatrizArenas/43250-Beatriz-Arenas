@@ -1,12 +1,15 @@
-const Productospage =()=>{
+import HeroBanner from "../components/HeroBanner";
+import ProductosContent from "../components/ProductosContent";
+
+const ProductosPage =()=>{
+    
     return(
         <>
-        <div>
-            <h1>Productos Page</h1>
-        </div>
+        <HeroBanner />
+        <ProductosContent />
         </>
         
     );
 };
 
-export default Productospage;
+export default ProductosPage;

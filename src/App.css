@@ -114,3 +114,29 @@ main .row {
 .contacto button i {
   color: white;
   font-size: 1.3rem; }
+
+  /*Productos*/
+
+  .cardProducto{
+    width: 400px;
+    margin: 5px;
+    text-align: center;
+    
+
+}
+
+.total{
+    text-align: center;
+}
+.img-hero-banner {
+    width: 100%;
+}
+
+.imagen{
+    width: 100%;
+}
+
+.producto-imagen{
+    width: 100%;
+  
+}

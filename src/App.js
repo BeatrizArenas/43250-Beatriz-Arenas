@@ -11,7 +11,8 @@ import HigienePage from './pages/HigienePage';
 import HomePage from './pages/HomePage';
 import JuguetesPage from './pages/JuguetesPage';
 import ContactoPage from './pages/ContactoPage';
-import Productospage from './pages/ProductosPage';
+import ProductosPage from './pages/ProductosPage';
+
 
 const App = () => {
   return(
@@ -24,13 +25,12 @@ const App = () => {
          <Route path='/higiene' element={ <HigienePage /> } />
          <Route path='/juguetes' element={ <JuguetesPage /> } />
          <Route path='/contacto' element={ <ContactoPage /> } />
-         <Route path='/productos' element={ <Productospage /> } />
+         <Route path='/productos' element={ <ProductosPage /> } />
       </Routes>
     </Router>
     <Footer />
     </div>
   );
   }
-
 
 export default App;

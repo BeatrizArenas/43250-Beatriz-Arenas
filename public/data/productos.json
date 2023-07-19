@@ -1,0 +1,80 @@
+ [
+    {
+        "id": 1,
+       "nombre": "Croquetas",
+        "precio": 200,
+        "imagen": "./img/productos/croqueta.jpg",
+        "categoria": "comida"
+    },
+
+    {
+        "id": 2,
+       "nombre": "Lata",
+        "precio": 50,
+        "imagen": "./img/productos/lata.jpg",
+        "categoria": "comida"
+    },
+
+    {
+        "id": 3,
+       "nombre": "Premios",
+        "precio": 80,
+        "imagen": "./img/productos/premio.jpeg",
+        "categoria": "comida"
+    },
+    {
+        "id": 4,
+       "nombre": "Shampoo",
+        "precio": 100,
+        "imagen": "./img/productos/shampoo.jpg",
+        "categoria": "limpieza"
+    },
+    {
+        "id": 5,
+       "nombre": "Espuma",
+        "precio": 180,
+        "imagen": "./img/productos/espuma.jpg",
+        "categoria": "limpieza"
+    },
+    {
+        "id": 6,
+       "nombre": "Rascador",
+        "precio": 1500,
+        "imagen": "./img/productos/rascador.jpeg",
+        "categoria": "juguetes"
+        
+    },
+    {
+        "id": 7,
+       "nombre": "Cañas",
+        "precio": 150,
+        "imagen": "./img/productos/caña.jpg",
+        "categoria": "juguetes"
+    },
+
+    {
+        "id": 8,
+       "nombre": "Laser",
+        "precio": 180,
+        "imagen": "./img/productos/laser.jpg",
+        "categoria": "juguetes"
+    },
+
+    {
+        "id": 9,
+       "nombre": "Ratón",
+        "precio": 50,
+        "imagen": "./img/productos/raton.jpg",
+        "categoria": "juguetes"
+    },
+
+    {
+        "id": 10,
+       "nombre": "cascabel",
+        "precio": 25,
+        "imagen": "./img/productos/cascabel.jpg",
+        "categoria": "juguetes"
+    }
+]
+
+
